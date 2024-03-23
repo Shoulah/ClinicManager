@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/19 18:22:25.000.233,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2019/10/19 18:22:26.000.684,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2020/10/01 19:34:39.000.578,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/28 23:45:35.000.472,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/28 23:45:36.000.806,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2020/12/28 23:45:38.000.791,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2021/01/05 17:46:51.000.302,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/05 18:05:21.000.823,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/05 18:40:53.000.090,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/05 18:47:39.000.455,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/05 18:54:47.000.484,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/12 19:11:31.000.882,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/12 19:13:52.000.394,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uMain.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/12 19:13:52.000.394,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uMain.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/12 19:13:57.000.757,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\ClinicManager.dproj=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/12 20:18:49.000.795,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/12 20:19:30.000.985,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uAddPatient.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.dfm</Transaction>
+    <Transaction>2022/04/12 20:19:30.000.985,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uAddPatient.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 21:11:38.000.130,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 21:14:16.000.818,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uPatients.pas</Transaction>
+    <Transaction>2022/04/14 21:14:16.000.818,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uPatients.dfm</Transaction>
+    <Transaction>2022/04/16 21:05:21.000.059,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/16 21:06:10.000.281,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uMedication.dfm</Transaction>
+    <Transaction>2022/04/16 21:06:10.000.281,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uMedication.pas</Transaction>
+    <Transaction>2022/04/18 00:44:56.000.095,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/18 00:46:16.000.543,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uMedicationSearch.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.dfm</Transaction>
+    <Transaction>2022/04/18 00:46:16.000.543,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uMedicationSearch.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/25 19:12:14.000.457,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/25 19:12:44.000.348,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uLogin.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/25 19:12:44.000.348,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uLogin.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.dfm</Transaction>
+    <Transaction>2022/04/25 19:56:27.000.731,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/25 19:58:47.000.260,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uAddUserAccount.pas</Transaction>
+    <Transaction>2022/04/25 19:58:47.000.260,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uAddUserAccount.dfm</Transaction>
+    <Transaction>2022/04/27 20:33:13.000.551,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/27 20:34:28.000.042,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uUsers.dfm</Transaction>
+    <Transaction>2022/04/27 20:34:28.000.042,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uUsers.pas</Transaction>
+    <Transaction>2022/04/27 20:58:50.000.326,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/27 21:00:22.000.488,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uEditUsers.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.dfm</Transaction>
+    <Transaction>2022/04/27 21:00:22.000.488,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uEditUsers.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2022/04/29 00:08:02.000.764,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2024/01/16 21:15:56.000.288,=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas</Transaction>
+    <Transaction>2024/01/16 21:17:02.000.858,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.pas=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uAddItem.pas</Transaction>
+    <Transaction>2024/01/16 21:17:02.000.858,C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\Unit1.dfm=C:\Users\Dark Angel\Documents\Embarcadero\Studio\Projects\ClinicManager\uAddItem.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
